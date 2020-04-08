@@ -1,3 +1,5 @@
 This is an example text file.
 
-Now I am practicing to track a file with git.
+Now I am practicing to track a file with git. I modified this file.
+
+I modified it even more.
